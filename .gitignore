@@ -1,0 +1,6 @@
+filter.ko
+filter.mod.c
+filter.mod.o
+filter.o
+modules.order
+Module.symvers
